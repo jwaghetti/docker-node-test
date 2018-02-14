@@ -2,6 +2,8 @@
 
 This is an example Node.js application to test the use of Docker.
 
+Official Public Repository: https://gitlab.com/jwaghetti/docker-node-test
+
 ## How to Use
 
 Create a Docker image and name it **jwaghetti/docker-node-test:0.0.1**:
