@@ -36,3 +36,9 @@ Considering the container is tagged as **docker-node-test**.
 - **List all containers**:
 ``$ docker ps -a``
 (without the -a flag, lists only the running containers)
+
+Copyright (C) 2016 Jean Waghetti.
+
+This work is free. You can redistribute it and/or modify it under the
+terms of the Do What The Fuck You Want To Public License, Version 2,
+as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
